@@ -8,4 +8,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="Telegram.Td">
+        <HintPath>TDLib\Telegram.Td.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
